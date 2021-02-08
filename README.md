@@ -1,2 +1,2 @@
 # robocopy
-Um simples robo de copiar 
+Um simples robo de copiar que gera um log
